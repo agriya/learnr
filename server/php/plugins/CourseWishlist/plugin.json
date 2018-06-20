@@ -1,0 +1,9 @@
+{
+	"name": "CourseWishlist", 
+	"class": "fa fa-2x fa-thumbs-up",
+	"description": "By enabling this plugin, users can add courses in their wishlist and can watch easily later.",
+	"dependencies": "Courses",
+	"module_id": "699",
+	"module_hash": "b7197b1509c144ecdfc7cbee20eb8066",
+	"display_order": "5"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Translations", 
+	"class": "fa fa-2x fa-language",
+	"description": "By enabling this, it helps the site to run the site in multiple languages.",
+	"dependencies": "",
+	"module_id": "703",
+	"module_hash": "751d47083e16f87b47c24b45bb3b5621",
+	"display_order": "22"
+}
